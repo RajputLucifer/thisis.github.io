@@ -1,0 +1,17 @@
+{
+  "my":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/pratik",
+    "prod_uri": "mysql://root:@localhost/pratik",
+    "insta_url": "https://instagram.com/ll__p.r.a.t.i.k__ll?igshid=1xc864ekfy9g8",
+    "linkedin_url": "https://www.linkedin.com/in/pratik-kate-a2254b1a2",
+    "git_url": "https://github.com/pratik-kate",
+    "app_url": "https://play.google.com/store/apps/details?id=com.supertridents.removebackground.object.remover",
+    "java_url": "https://github.com/pratik-kate/Java-Code",
+    "quiz_url": "https://drive.google.com/file/d/1euwMYij4-6hq09CuSam02efz5Qfan9zY/view?usp=sharing",
+    "vedic_url": " https://github.com/pratik-kate/OUR_VEDIC",
+    "gmail-user": "codes.pratik@gmail.com",
+    "gmail-pass": "8530899088@pratik"
+  }
+}
